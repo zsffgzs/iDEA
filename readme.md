@@ -11,7 +11,8 @@
 **iDEA**目前主要用于SBM模型的计算，支持：
 
 
-## 【效率模型】【同时支持CRS及VRS,可以计算TE、PTE、SE】
+## 【效率模型】
+###【同时支持CRS及VRS,可以计算TE、PTE、SE】
 
 ```
 1.投入导向SBM模型
@@ -27,7 +28,8 @@
 11.含非期望产出的产出导向超效率SBM模型
 12.含非期望产出的非导向超效率SBM模型
 ```
-## 【指数模型】【同时支持CRS及VRS,可以计算effch、techch、pech、sech、tfpch】
+## 【指数模型】
+###【同时支持CRS及VRS,可以计算effch、techch、pech、sech、tfpch】
 ```
 13.投入导向SBM-Malmquist模型
 14.产出导向SBM-Malmquist模型
