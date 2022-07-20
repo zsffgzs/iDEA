@@ -11,7 +11,7 @@
 **iDEA**目前主要用于SBM模型的计算，支持：
 
 
-## 【效率模型】
+## 【效率模型】【同时支持CRS及VRS,可以计算TE、PTE、SE】
 
 ```
 1.投入导向SBM模型
@@ -27,14 +27,24 @@
 11.含非期望产出的产出导向超效率SBM模型
 12.含非期望产出的非导向超效率SBM模型
 ```
-| <font color=red>【效率模型】</font><font color=blue>【同时支持CRS及VRS,可以计算TE、PTE、SE】</font> |
-| ------------------------------------------------------------ |
-| 1.投入导向SBM模型<br />2.产出导向SBM模型<br />3.非导向SBM模型<br />4.含非期望产出的投入导向SBM模型<br />5.含非期望产出的产出导向SBM模型<br />6.含非期望产出的非导向SBM模型<br />7.投入导向超效率SBM模型<br />8.产出导向超效率SBM模型<br />9.非导向超效率SBM模型<br />10.含非期望产出的投入导向超效率SBM模型<br />11.含非期望产出的产出导向超效率SBM模型<br />12.含非期望产出的非导向超效率SBM模型 |
-
-| <font color=red>【指数模型】</font><br /><font color=blue>【同时支持CRS及VRS,可以计算effch、techch、pech、sech、tfpch】</font> |
-| ------------------------------------------------------------ |
-| 13.投入导向SBM-Malmquist模型<br />14.产出导向SBM-Malmquist模型<br />15.非导向SBM-Malmquist模型<br />16.投入导向SBM-Malmquist-Luenberger模型（相邻参比SBM-ML)<br />17.产出导向SBM-Malmquist-Luenberger模型（相邻参比SBM-ML)<br />18.非导向SBM-Malmquist-Luenberger模型（相邻参比SBM-ML)<br />19.投入导向超效率SBM-Malmquist-Luenberger模型（相邻参比超效率SBM-ML)<br />20.产出导向超效率SBM-Malmquist-Luenberger模型（相邻参比超效率SBM-ML)<br />21.非导向超效率SBM-Malmquist-Luenberger模型（相邻参比超效率SBM-ML)<br />22.投入导向SBM-Global-Malmquist-Luenberger模型（SBM-GML)<br />23.产出导向SBM-Global-Malmquist-Luenberger模型（SBM-GML)<br />24.非导向SBM-Global-Malmquist-Luenberger模型（SBM-GML)<br />25.投入导向超效率SBM-Global-Malmquist-Luenberger模型（超效率SBM-GML)<br />26.产出导向超效率SBM-Global-Malmquist-Luenberger模型（超效率SBM-GML)<br />27.非导向超效率SBM-Global-Malmquist-Luenberger模型（超效率SBM-GML) |
-
+## 【指数模型】【同时支持CRS及VRS,可以计算effch、techch、pech、sech、tfpch】
+```
+13.投入导向SBM-Malmquist模型
+14.产出导向SBM-Malmquist模型
+15.非导向SBM-Malmquist模型
+16.投入导向SBM-Malmquist-Luenberger模型（相邻参比SBM-ML)
+17.产出导向SBM-Malmquist-Luenberger模型（相邻参比SBM-ML)
+18.非导向SBM-Malmquist-Luenberger模型（相邻参比SBM-ML)
+19.投入导向超效率SBM-Malmquist-Luenberger模型（相邻参比超效率SBM-ML)
+20.产出导向超效率SBM-Malmquist-Luenberger模型（相邻参比超效率SBM-ML)
+21.非导向超效率SBM-Malmquist-Luenberger模型（相邻参比超效率SBM-ML)
+22.投入导向SBM-Global-Malmquist-Luenberger模型（SBM-GML)
+23.产出导向SBM-Global-Malmquist-Luenberger模型（SBM-GML)
+24.非导向SBM-Global-Malmquist-Luenberger模型（SBM-GML)
+25.投入导向超效率SBM-Global-Malmquist-Luenberger模型（超效率SBM-GML)
+26.产出导向超效率SBM-Global-Malmquist-Luenberger模型（超效率SBM-GML)
+27.非导向超效率SBM-Global-Malmquist-Luenberger模型（超效率SBM-GML) 
+```
 
 <font face="宋体"  font size=3>参考文献：</font><br />
 <font face="宋体"  font size=3>[1] 成刚.数据包络分析方法与MaxDEA软件[M].北京:知识产权出版社,2014.</font><br />
