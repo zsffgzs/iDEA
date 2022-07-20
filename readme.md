@@ -1,10 +1,10 @@
 # iDEA一款用于SBM模型数据包络分析的新软件
 
-
+<br />
 
 | **<font face="华文行楷"  font size=6>软件引用说明</font>**   |
 | ------------------------------------------------------------ |
-| 示例：  <br /><font face="宋体"  font size=3>&emsp;&emsp;本文利用iDEA3.0[1]软件采用非导向、规模报酬不变的全局超效率SBM模型对某省农业用水效率进行测算。</font>  <br />参考文献<br/><font face="宋体"  font size=3>[1] ZSFFGZS.iDEA一款用于SBM模型数据包络分析的新软件[EB/OL].(2022-07-20)</font><font color=blue>[2022-XX-XX]</font>.<font color=black>https://github.com/zsffgzs/iDEA.</font> <br /><br />**※※※其中<font color=blue>[2022-XX-XX]</font>需要修改为你引用的时间※※※** |
+| 示例：  <br />&emsp;&emsp;本文利用iDEA3.0[1]软件采用非导向、规模报酬不变的全局超效率SBM模型对某省农业用水效率进行测算。<br />参考文献<br/>[1] ZSFFGZS.iDEA一款用于SBM模型数据包络分析的新软件[EB/OL].(2022-07-20)[2022-XX-XX].https://github.com/zsffgzs/iDEA.<br />**※※※其中<font color=blue>[2022-XX-XX]</font>需要修改为你引用的时间※※※** 
 
 经过淘宝**知识付费工作室【<font color=red>ZSFFGZS</font>**】的持续努力，一款功能齐全、操作简单、计算准确的SBM模型软件终于正式发布！这便是【**<font color=red>iDEA</font>**】，<font color=#FF00FF>**当前版本3.0**</font>。
 
