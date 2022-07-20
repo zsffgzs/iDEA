@@ -5,7 +5,10 @@
 **<font face="华文行楷"  font size=6>软件引用说明</font>**   
  ------------------------------------------------------------ 
 ```
-示例：  <br />&emsp;&emsp;本文利用iDEA3.0[1]软件采用非导向、规模报酬不变的全局超效率SBM模型对某省农业用水效率进行测算。<br />参考文献<br/>[1] ZSFFGZS.iDEA一款用于SBM模型数据包络分析的新软件[EB/OL].(2022-07-20)[2022-XX-XX].https://github.com/zsffgzs/iDEA.<br />
+示例：  
+    本文利用iDEA3.0[1]软件采用非导向、规模报酬不变的全局超效率SBM模型对某省农业用水效率进行测算。
+参考文献
+[1] ZSFFGZS.iDEA一款用于SBM模型数据包络分析的新软件[EB/OL].(2022-07-20)[2022-XX-XX].https://github.com/zsffgzs/iDEA.
 ```
 **※※※其中<font color=blue>[2022-XX-XX]</font>需要修改为你引用的时间※※※** 
 
