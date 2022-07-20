@@ -18,10 +18,10 @@
 | ------------------------------------------------------------ |
 | 13.投入导向SBM-Malmquist模型<br />14.产出导向SBM-Malmquist模型<br />15.非导向SBM-Malmquist模型<br />16.投入导向SBM-Malmquist-Luenberger模型（相邻参比SBM-ML)<br />17.产出导向SBM-Malmquist-Luenberger模型（相邻参比SBM-ML)<br />18.非导向SBM-Malmquist-Luenberger模型（相邻参比SBM-ML)<br />19.投入导向超效率SBM-Malmquist-Luenberger模型（相邻参比超效率SBM-ML)<br />20.产出导向超效率SBM-Malmquist-Luenberger模型（相邻参比超效率SBM-ML)<br />21.非导向超效率SBM-Malmquist-Luenberger模型（相邻参比超效率SBM-ML)<br />22.投入导向SBM-Global-Malmquist-Luenberger模型（SBM-GML)<br />23.产出导向SBM-Global-Malmquist-Luenberger模型（SBM-GML)<br />24.非导向SBM-Global-Malmquist-Luenberger模型（SBM-GML)<br />25.投入导向超效率SBM-Global-Malmquist-Luenberger模型（超效率SBM-GML)<br />26.产出导向超效率SBM-Global-Malmquist-Luenberger模型（超效率SBM-GML)<br />27.非导向超效率SBM-Global-Malmquist-Luenberger模型（超效率SBM-GML) |
 
-<font face="宋体"  font size=3>参考文献：</font>
-<font face="宋体"  font size=3>[1] 成刚.数据包络分析方法与MaxDEA软件[M].北京:知识产权出版社,2014.</font>
-<font face="宋体"  font size=3>[2] http://lpsolve.sourceforge.net/5.5/</font>
-<font face="宋体"  font size=3>[3] https://www.python.org/</font>
-<font face="宋体"  font size=3>[4] https://www.numpy.org/</font>
-<font face="宋体"  font size=3>[5] https://pandas.pydata.org/</font>
+<font face="宋体"  font size=3>参考文献：</font><br />
+<font face="宋体"  font size=3>[1] 成刚.数据包络分析方法与MaxDEA软件[M].北京:知识产权出版社,2014.</font><br />
+<font face="宋体"  font size=3>[2] http://lpsolve.sourceforge.net/5.5/</font><br />
+<font face="宋体"  font size=3>[3] https://www.python.org/</font><br />
+<font face="宋体"  font size=3>[4] https://www.numpy.org/</font><br />
+<font face="宋体"  font size=3>[5] https://pandas.pydata.org/</font><br />
 
