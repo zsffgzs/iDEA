@@ -10,15 +10,15 @@
 参考文献
 [1] ZSFFGZS.iDEA一款用于SBM模型数据包络分析的新软件[EB/OL].(2022-07-20)[2022-XX-XX].https://github.com/zsffgzs/iDEA.
 ```
-**※※※其中[2022-XX-XX]需要修改为你引用的时间※※※
+**※※※其中[2022-XX-XX]需要修改为你引用的时间※※※**
 
-## 经过淘宝**知识付费工作室【<font color=red>ZSFFGZS</font>**】的持续努力，一款功能齐全、操作简单、计算准确的SBM模型软件终于正式发布！这便是【**<font color=red>iDEA</font>**】，<font color=#FF00FF>**当前版本3.0**</font>。
+## &emsp;&emsp;经过淘宝**知识付费工作室【<font color=red>ZSFFGZS</font>**】的持续努力，一款功能齐全、操作简单、计算准确的SBM模型软件终于正式发布！这便是【**<font color=red>iDEA</font>**】，<font color=#FF00FF>**当前版本3.0**</font>。
 
 ## **iDEA**目前主要用于SBM模型的计算，支持：
 
 
 ## 【效率模型】
-###【同时支持CRS及VRS,可以计算TE、PTE、SE】
+### 【同时支持CRS及VRS,可以计算TE、PTE、SE】
 
 ```
 1.投入导向SBM模型
@@ -35,7 +35,7 @@
 12.含非期望产出的非导向超效率SBM模型
 ```
 ## 【指数模型】
-###【同时支持CRS及VRS,可以计算effch、techch、pech、sech、tfpch】
+### 【同时支持CRS及VRS,可以计算effch、techch、pech、sech、tfpch】
 ```
 13.投入导向SBM-Malmquist模型
 14.产出导向SBM-Malmquist模型
