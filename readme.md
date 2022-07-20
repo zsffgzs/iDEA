@@ -10,7 +10,7 @@
 
 **iDEA**目前主要用于SBM模型的计算，支持：
 
-| <font color=red>【效率模型】</font><br /><font color=blue>【同时支持CRS及VRS,可以计算TE、PTE、SE】</font>> |
+| <font color=red>【效率模型】</font><br /><font color=blue>【同时支持CRS及VRS,可以计算TE、PTE、SE】</font> |
 | ------------------------------------------------------------ |
 | 1.投入导向SBM模型<br />2.产出导向SBM模型<br />3.非导向SBM模型<br />4.含非期望产出的投入导向SBM模型<br />5.含非期望产出的产出导向SBM模型<br />6.含非期望产出的非导向SBM模型<br />7.投入导向超效率SBM模型<br />8.产出导向超效率SBM模型<br />9.非导向超效率SBM模型<br />10.含非期望产出的投入导向超效率SBM模型<br />11.含非期望产出的产出导向超效率SBM模型<br />12.含非期望产出的非导向超效率SBM模型 |
 
