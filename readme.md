@@ -14,6 +14,7 @@
 ```
 
 #### &emsp;&emsp;经过淘宝**知识付费工作室【<font color=red>ZSFFGZS</font>**】的持续努力，一款功能齐全、操作简单、计算准确的SBM模型软件终于正式发布！这便是【**<font color=red>iDEA</font>**】，<font color=#FF00FF>**当前版本4.0**</font>。
+####注意：不建议数据中有负数和0，数据有负数和0时结果可能又会错误。
 
 ```
 更新日志：
