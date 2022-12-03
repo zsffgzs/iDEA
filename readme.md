@@ -65,6 +65,9 @@
 ![当期、标准、投入导向](https://raw.githubusercontent.com/zsffgzs/iDEA/main/%E5%BD%93%E6%9C%9F%E6%A0%87%E5%87%86%E6%8A%95%E5%85%A5.png)
 ![当期、标准、产出导向](https://raw.githubusercontent.com/zsffgzs/iDEA/main/%E5%BD%93%E6%9C%9F%E6%A0%87%E5%87%86%E4%BA%A7%E5%87%BA.png)
 ![当期、标准、非导向](https://raw.githubusercontent.com/zsffgzs/iDEA/main/当期标准非.png)
+![当期、标准、非导向、非期望产出](https://raw.githubusercontent.com/zsffgzs/iDEA/main/当期标准非非期望.png)
+![全局、标准、非导向、非期望产出](https://raw.githubusercontent.com/zsffgzs/iDEA/main/全局标准非非期望.png)
+![全局、超效率、非导向、非期望产出](https://raw.githubusercontent.com/zsffgzs/iDEA/main/全局超效率非非期望.png)
 
 <font face="宋体"  font size=3>参考文献：</font><br />
 <font face="宋体"  font size=3>[1] 成刚.数据包络分析方法与MaxDEA软件[M].北京:知识产权出版社,2014.</font><br />
