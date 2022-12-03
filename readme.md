@@ -61,6 +61,8 @@
 26.产出导向超效率SBM-Global-Malmquist-Luenberger模型（超效率SBM-GML)
 27.非导向超效率SBM-Global-Malmquist-Luenberger模型（超效率SBM-GML) 
 ```
+## 【常用公式】
+![当期、标准、投入导向](https://raw.githubusercontent.com/zsffgzs/iDEA/main/%E5%BD%93%E6%9C%9F%E6%A0%87%E5%87%86%E6%8A%95%E5%85%A5.png)
 
 <font face="宋体"  font size=3>参考文献：</font><br />
 <font face="宋体"  font size=3>[1] 成刚.数据包络分析方法与MaxDEA软件[M].北京:知识产权出版社,2014.</font><br />
