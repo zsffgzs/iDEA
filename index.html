@@ -1,33 +1,18 @@
+<!DOCTYPE html>
 <html>
-
-	<style>
-    a {
-        color: blue;
-        text-decoration: underline;
-    }
-	</style>
-<style>
-    .red-text {
-        color: red;
-        line-height: 1.0;
-        margin-left: 30px;
-    }
-</style>
+<head>
+  <title>改变域名示例</title>
+</head>
 <body>
+  <h1>改变域名示例</h1>
 
-
-
-	<ul class="red-text">
-		<li>① 现已停止申请试用，购买请联系：zsffgzs；</li>
-		<li>② 现已停止申请试用，购买请联系：zsffgzs；</li>
-		<li>③ 现已停止申请试用，购买请联系：zsffgzs。</li>
-	</ul>
-
-	<p>邮箱：<span style="color: blue;text-decoration: underline;">pcell@qq.com</span> &nbsp;
-	   公众号：<span style="color: blue;text-decoration: underline;">zsffgzs</span>  &nbsp;
-	   微信：<span style="color: blue;text-decoration: underline;">zsffgzs</span> &nbsp;
-	   淘宝：<span style="color: blue;text-decoration: underline;">知识付费工作室</span> &nbsp;
-	</p>
-
+  <script>
+    // 修改域名
+    window.onload = function() {
+      var currentUrl = window.location.href;
+      var newUrl = currentUrl.replace(/:\/\/(.*?)\//, '://baidu.com/');
+      window.location.href = newUrl;
+    };
+  </script>
 </body>
 </html>
